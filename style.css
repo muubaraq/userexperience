@@ -1,0 +1,86 @@
+html {
+    font-size: .9rem;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 0;
+    background: #252525;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2em 2em; 
+}
+
+h1{
+    font-weight: 600; 
+    font-size: 3.75rem;
+    margin-top: 0;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: 510;
+    margin-bottom: 0;
+    border-bottom: solid 1px #c4c4c4;
+    padding: .5em 0;
+}
+
+
+
+p {
+    line-height: 1.6rem;
+}
+
+.accent-text {
+    color: #99D930;
+}
+
+.introduction {
+    background: white;
+    color: #252525;
+}
+
+.done-wrong {
+    color: #252525;
+    background: #99D930;;
+}
+.done-wrong h3 {
+    border-bottom: solid 1px #252525;
+}
+
+
+ol li {
+    padding: .5em;
+}
+
+.product-entail{
+    font-weight: 505;
+}
+.italic {
+    font-style: italic;
+    font-weight: 505;
+}
+
+.improvement {
+    margin-top:3em;
+}
+.improvement h3 {
+    text-align: center;
+}
+
+.improvement .improvement-list li {
+    margin: .9em 0;
+}
+
+.d-block {
+    display: block;
+    margin-bottom:.5em;
+    font-weight: bold;
+    
+}
